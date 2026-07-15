@@ -2,7 +2,7 @@
 # Academic Record Management System
 
 ## Project Description 
-Academic Record Management System is a Linus Bash Shell project used to manage student academic records through terminal
+The Academic Record Management System is a Linux Bash Shell project used to manage student academic records through the terminal
 
 ## Features
 - Add Student Record
@@ -14,7 +14,7 @@ Academic Record Management System is a Linus Bash Shell project used to manage s
 
 ## Technologies Used
 - Linux 
-- Bash Shell Scripting
+- Linux Bash shell scripting project
 
 ## Commands Used
 - read
@@ -25,10 +25,10 @@ Academic Record Management System is a Linus Bash Shell project used to manage s
 - sed
 
 ## How to Run
-Give execution permission:
-chmod +x academic_record.sh
-Run the project:
-./academic_record.sh
+1) Give execution permission:
+     chmod +x academic_record.sh
+2) Run the project:
+     ./academic_record.sh
 
 ## Author
 Prajakta S. Kinare
